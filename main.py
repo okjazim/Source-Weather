@@ -59,7 +59,7 @@ def search(event=None):
 
 initial = gui2.Window(themename="solar")
 initial.title("Source Weather")
-initial.iconbitmap(r"C:\Users\jazim\OneDrive - SRH\Documents\Source Weather\cloudy_DIU_icon.ico")
+initial.iconbitmap(r"cloudy_DIU_icon.ico")
 initial.geometry("400x350")
 
 city_search = gui2.Entry(initial, font="8514oem,15")
