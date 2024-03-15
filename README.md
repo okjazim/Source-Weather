@@ -33,3 +33,7 @@ Now use the following command to build the files in a single .exe file.
 
 
 The .exe file will now be generated in the 'dist' folder which will be in the Source Weather Folder. The program will only run in this folder since '.env' file is there.
+
+## References
+[https://openweathermap.org/api/one-call-api](https://openweathermap.org/api/one-call-api)
+[https://www.pyinstaller.org/en/stable/usage.html](https://www.pyinstaller.org/en/stable/usage.html)
