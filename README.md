@@ -20,11 +20,13 @@ Download the latest zip file from the releases tab. It contains 'main.py', 'clou
 After getting the api key, open 'envsample' and paste it. Also rename the file to '.env'.
 
 Open terminal as administrator and install pyinstaller module (skip this if have this already)
+
 `pip install pyinstaller`
 
 Redirect the file directory to the destination of Source Weather folder.
 
 Now use the following command to build the files in a single .exe file.
+
 `pyinstaller --onefile --noconsole --icon cloudy_DIU_icon.ico main.py`
 
 The .exe file will now be generated in the 'dist' folder which will be in the Source Weather Folder. The program will only run in this folder since '.env' file is there.
