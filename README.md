@@ -1,4 +1,4 @@
-![cloudy_DIU_icon-5](https://github.com/okjazim/Source-Weather/assets/79494525/82d0ff49-c692-4533-8ce3-ff991c02de4d)
+![cloudy](https://github.com/okjazim/Source-Weather/assets/79494525/757f98b4-f0d5-4dcc-8bc3-f8075c02c23d)
 # Source Weather
 A typical windows weather application that provides weather information of user searched cities. This program is completely written in Python and Tkinter as well as Tkbootstrap library was used to provide the GUI along with the functionality for this program.
 
