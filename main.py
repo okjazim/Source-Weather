@@ -10,7 +10,9 @@ def configure():
     load_dotenv()
 
 def weather(city):
+    
     url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={os.getenv('API_key')}"
+    
     try:
         res = req.get(url)
         res.raise_for_status()  
@@ -59,7 +61,7 @@ def search(event=None):
 
 initial = gui2.Window(themename="solar")
 initial.title("Source Weather")
-initial.iconbitmap(r"C:\Users\jazim\OneDrive - SRH\Documents\Source Weather\cloudy_DIU_icon.ico")
+initial.iconbitmap(r"C:\Users\jazim\Documents\Source Weather\cloudy_DIU_icon.ico")
 initial.geometry("400x350")
 
 city_search = gui2.Entry(initial, font="8514oem,15")
