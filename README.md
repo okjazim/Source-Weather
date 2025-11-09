@@ -14,9 +14,9 @@ A typical Windows weather application that provides weather information for user
 
 ## Screenshots
 
-<img width="809" height="637" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/4e1ec9f5-c687-4714-b849-44843d869412" />
+<img width="600" height="400" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/4e1ec9f5-c687-4714-b849-44843d869412" />
 
-<img width="799" height="639" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/4a4a79b2-5bfe-4407-a0b2-5b76c1a9f14a" />
+<img width="600" height="400" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/4a4a79b2-5bfe-4407-a0b2-5b76c1a9f14a" />
 
 ## Setup
 
