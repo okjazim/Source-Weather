@@ -38,6 +38,10 @@ A typical Windows weather application that provides weather information for user
   - Click on the `.exe` file to finally run the application.
   - The program will only run correctly when the `.env` file is present there!
 
+## License
+This project is licensed under the **MIT License**.
+See [`LICENSE`](LICENSE) for details. © 2026 okjazim
+
 ## References
 
 - [OpenWeatherMap One Call API](https://openweathermap.org/api/one-call-api)
